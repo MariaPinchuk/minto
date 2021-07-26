@@ -1,0 +1,48 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px auto;
+}
+
+.header__logo {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.header__text{
+    font-size: 39px;
+    color: #ac9dba;
+    margin-left: 16px;
+}
+
+.header__name {
+    position: absolute;
+    left: 23px;
+    top: 16px;
+    font-size: 29px;
+    color: white;
+    font-family: 'Amaranth', sans-serif;
+    text-shadow: -2px 2px 0 rgba(0,0,0,0.4);
+}
+
+.header__nav ul {
+    display: flex;
+    align-items: baseline;
+}
+
+.header__nav ul li {
+    list-style: none;
+    margin-left: 70px;
+}
+
+.header__link {
+    text-decoration: none;
+    font-size: 19px;
+    color: #545454;
+}
+
+.header__img {
+    margin-right: 8px;
+}

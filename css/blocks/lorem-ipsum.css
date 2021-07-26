@@ -1,0 +1,38 @@
+.lorem-ipsum {
+    display: flex;
+    align-items: center;
+    color: #9c9c9c;
+    font-size: 15px;
+    line-height: 28px;
+    margin-bottom: 55px;
+}
+
+.lorem-ipsum__text {
+    padding-left: 10px;
+}
+
+.lorem-ipsum h2 {
+    font-size: 31px;
+    line-height: 36px;
+    color: #505052;
+    font-weight: 700;
+    margin-bottom: 35px;
+}
+
+.lorem-ipsum__img {
+    margin: 0 25px;
+}
+
+.lorem-ipsum__button {
+    text-align: end;
+    font-size: 13px;
+    line-height: 36px;
+    font-style: italic;
+}
+
+.lorem-ipsum__button a {
+    text-decoration: none;
+    color: #9c9c9c;
+}
+
+

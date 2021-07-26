@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 100%;
+    min-width: 320px;
+}
+
+.wrap {
+    max-width: 1020px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    border-top: 8px solid #a293b4;
+    border-bottom: 8px solid #81699d;
+}

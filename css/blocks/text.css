@@ -1,0 +1,20 @@
+.text {
+    font-size: 23px;
+    line-height: 36px;
+    font-style: italic;
+    color: #545454;
+    text-align: center;
+    padding: 20px 0;
+    border-top: 1px solid #bfbfbf;
+    border-bottom: 1px solid #bfbfbf;
+    margin: 40px 10px 30px 10px;
+}
+
+.text p {
+    padding: 0 40px;
+}
+
+.text strong {
+    color: #806898;
+    font-weight: bold;
+}
